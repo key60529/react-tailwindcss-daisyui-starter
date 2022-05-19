@@ -1,6 +1,6 @@
-# Example
+# Template
 
-To run this example:
+To run this template:
 
-- `npm install` or `yarn`
-- `npm run dev` or `yarn dev`
+- `yarn`
+- `yarn start`
